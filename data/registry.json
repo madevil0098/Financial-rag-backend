@@ -1,0 +1,78 @@
+{
+  "75968d0f07c947ee9c5b79d82fb6c21e": {
+    "id": "75968d0f07c947ee9c5b79d82fb6c21e",
+    "name": "sample_finances.xlsx \u00b7 Debts",
+    "source_type": "excel",
+    "category": "debts",
+    "group_id": "3b91bc53a29744e88d45f913fb951cf1",
+    "table_name": "Debts",
+    "original_filename": "sample_finances.xlsx",
+    "row_count": 6,
+    "column_count": 6,
+    "columns": [
+      {
+        "name": "creditor",
+        "dtype": "string"
+      },
+      {
+        "name": "kind",
+        "dtype": "string"
+      },
+      {
+        "name": "balance",
+        "dtype": "integer"
+      },
+      {
+        "name": "apr",
+        "dtype": "float"
+      },
+      {
+        "name": "min_payment",
+        "dtype": "integer"
+      },
+      {
+        "name": "due_day",
+        "dtype": "integer"
+      }
+    ],
+    "size_bytes": 4159,
+    "created_at": "2026-05-29T05:16:07.431694Z",
+    "extra": {
+      "sheet": "Debts"
+    }
+  },
+  "19639545c51c4dc3a12546c808459ded": {
+    "id": "19639545c51c4dc3a12546c808459ded",
+    "name": "sample_finances.xlsx \u00b7 Statement",
+    "source_type": "excel",
+    "category": "bank_statement",
+    "group_id": "3b91bc53a29744e88d45f913fb951cf1",
+    "table_name": "Statement",
+    "original_filename": "sample_finances.xlsx",
+    "row_count": 116,
+    "column_count": 4,
+    "columns": [
+      {
+        "name": "date",
+        "dtype": "string"
+      },
+      {
+        "name": "description",
+        "dtype": "string"
+      },
+      {
+        "name": "category",
+        "dtype": "string"
+      },
+      {
+        "name": "amount",
+        "dtype": "float"
+      }
+    ],
+    "size_bytes": 4366,
+    "created_at": "2026-05-29T05:16:07.449320Z",
+    "extra": {
+      "sheet": "Statement"
+    }
+  }
+}

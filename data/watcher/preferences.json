@@ -1,0 +1,11 @@
+{
+  "demo-user": {
+    "user_id": "demo-user",
+    "sensitivity": "high",
+    "horizon_days": 60,
+    "safety_buffer": 0.0,
+    "channels": [
+      "in_app"
+    ]
+  }
+}

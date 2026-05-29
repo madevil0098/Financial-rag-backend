@@ -1,0 +1,7 @@
+creditor,kind,balance,apr,min_payment,due_day
+Visa Classic,credit card,2400.0,19.9,60,14
+Amex Gold,credit card,5200.0,23.9,130,2
+Klarna,BNPL,600.0,0.0,50,28
+Car Loan,personal loan,9800.0,6.4,245,20
+Personal Loan,loan,4300.0,11.5,150,8
+Overdraft,overdraft,750.0,39.9,20,1

@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "cd1fc7f275de4c7d92fc1ddcf6f569c8",
+    "user_id": "demo-user",
+    "date": "2026-01-01",
+    "amount": -1100.0,
+    "category": "housing",
+    "counterparty": "Rent",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.199238+00:00"
+  },
+  {
+    "id": "e2e96adc30a345e09434f3b3ed4a1596",
+    "user_id": "demo-user",
+    "date": "2026-01-02",
+    "amount": -130.0,
+    "category": "debt",
+    "counterparty": "Amex Gold payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.200079+00:00"
+  },
+  {
+    "id": "277b3f9466fc41e283aba97b5b99d032",
+    "user_id": "demo-user",
+    "date": "2026-01-02",
+    "amount": -24.28,
+    "category": "groceries",
+    "counterparty": "Lidl",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.201039+00:00"
+  },
+  {
+    "id": "8e7843d1321a4419b9a87f6f60b7a76d",
+    "user_id": "demo-user",
+    "date": "2026-01-03",
+    "amount": -95.0,
+    "category": "utilities",
+    "counterparty": "Electric & Gas",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.201679+00:00"
+  },
+  {
+    "id": "4d8ccb475d214e0ea19e9d44d81357c1",
+    "user_id": "demo-user",
+    "date": "2026-01-03",
+    "amount": -50.35,
+    "category": "transport",
+    "counterparty": "Rail Ticket",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.202157+00:00"
+  },
+  {
+    "id": "48e00a0afbc4417384bfcbef9d03190b",
+    "user_id": "demo-user",
+    "date": "2026-01-04",
+    "amount": -10.99,
+    "category": "subscription",
+    "counterparty": "Spotify",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.202640+00:00"
+  },
+  {
+    "id": "542322ced7b443c388208eef6e146539",
+    "user_id": "demo-user",
+    "date": "2026-01-04",
+    "amount": -57.56,
+    "category": "groceries",
+    "counterparty": "Tesco",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.203080+00:00"
+  },
+  {
+    "id": "8b17f079ba6c4ea8865ce4fb51887bbe",
+    "user_id": "demo-user",
+    "date": "2026-01-05",
+    "amount": -13.99,
+    "category": "subscription",
+    "counterparty": "Netflix",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.203513+00:00"
+  },
+  {
+    "id": "6681b9a422a749f0b2f1ce687e1cd092",
+    "user_id": "demo-user",
+    "date": "2026-01-05",
+    "amount": -11.88,
+    "category": "dining",
+    "counterparty": "Deliveroo",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.203993+00:00"
+  },
+  {
+    "id": "9c224953828a413e8c5952394d08c353",
+    "user_id": "demo-user",
+    "date": "2026-01-07",
+    "amount": -25.0,
+    "category": "subscription",
+    "counterparty": "Mobile",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.204538+00:00"
+  },
+  {
+    "id": "612521bb56f443578bb4c4c4c6183cde",
+    "user_id": "demo-user",
+    "date": "2026-01-07",
+    "amount": -45.0,
+    "category": "subscription",
+    "counterparty": "Broadband",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.205034+00:00"
+  },
+  {
+    "id": "1b0a55d2305f4020bc1b5d61616ca46c",
+    "user_id": "demo-user",
+    "date": "2026-01-08",
+    "amount": -39.0,
+    "category": "subscription",
+    "counterparty": "Gym",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.205781+00:00"
+  },
+  {
+    "id": "ed71ce390dbf4ce3a6e8d58f2b9aa412",
+    "user_id": "demo-user",
+    "date": "2026-01-08",
+    "amount": -150.0,
+    "category": "debt",
+    "counterparty": "Personal Loan payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.206329+00:00"
+  },
+  {
+    "id": "a5312eb7bccd49baad56113605550252",
+    "user_id": "demo-user",
+    "date": "2026-01-08",
+    "amount": -65.97,
+    "category": "groceries",
+    "counterparty": "Dunnes",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.206808+00:00"
+  },
+  {
+    "id": "a2825f2478594efd9907509bf1fef1c3",
+    "user_id": "demo-user",
+    "date": "2026-01-10",
+    "amount": -72.23,
+    "category": "groceries",
+    "counterparty": "Tesco",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.207247+00:00"
+  },
+  {
+    "id": "bf102a066fab4a3e8f0c19d415fcf692",
+    "user_id": "demo-user",
+    "date": "2026-01-10",
+    "amount": -13.82,
+    "category": "dining",
+    "counterparty": "Pizza Place",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.207829+00:00"
+  },
+  {
+    "id": "c33a99a461994148a6a5198a2304a0ab",
+    "user_id": "demo-user",
+    "date": "2026-01-13",
+    "amount": -35.27,
+    "category": "dining",
+    "counterparty": "Pizza Place",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.208258+00:00"
+  },
+  {
+    "id": "e72811782cd04b3daf9a14652f91d769",
+    "user_id": "demo-user",
+    "date": "2026-01-14",
+    "amount": -60.0,
+    "category": "debt",
+    "counterparty": "Visa Classic payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.208715+00:00"
+  },
+  {
+    "id": "7ba4b15b89d84a3692b43860762f4cfc",
+    "user_id": "demo-user",
+    "date": "2026-01-15",
+    "amount": -32.77,
+    "category": "groceries",
+    "counterparty": "Dunnes",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.209117+00:00"
+  },
+  {
+    "id": "a1155fa7b32e427e800482a3a050f90c",
+    "user_id": "demo-user",
+    "date": "2026-01-18",
+    "amount": -58.34,
+    "category": "groceries",
+    "counterparty": "Dunnes",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.209511+00:00"
+  },
+  {
+    "id": "4f18e23121f847b78cfc0c58aa93c0c8",
+    "user_id": "demo-user",
+    "date": "2026-01-19",
+    "amount": -12.87,
+    "category": "dining",
+    "counterparty": "Sushi Bar",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.210806+00:00"
+  },
+  {
+    "id": "c7b33cb9eab942a89d37fc46531f0771",
+    "user_id": "demo-user",
+    "date": "2026-01-19",
+    "amount": -29.0,
+    "category": "transport",
+    "counterparty": "Rail Ticket",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.211560+00:00"
+  },
+  {
+    "id": "761f97180d104d019e78fca4d6f1db1c",
+    "user_id": "demo-user",
+    "date": "2026-01-20",
+    "amount": -245.0,
+    "category": "debt",
+    "counterparty": "Car Loan payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.212163+00:00"
+  },
+  {
+    "id": "d3ae7f0547144fe6869af1ed42d4e205",
+    "user_id": "demo-user",
+    "date": "2026-01-20",
+    "amount": -23.15,
+    "category": "transport",
+    "counterparty": "Fuel Station",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.212776+00:00"
+  },
+  {
+    "id": "3df88a87492447fc824692ce6b778fd1",
+    "user_id": "demo-user",
+    "date": "2026-01-25",
+    "amount": 2900.0,
+    "category": "income",
+    "counterparty": "ACME Payroll",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.214259+00:00"
+  },
+  {
+    "id": "52c2ad60e73a4c5db050f9b138384c82",
+    "user_id": "demo-user",
+    "date": "2026-01-25",
+    "amount": -24.87,
+    "category": "groceries",
+    "counterparty": "Dunnes",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.215082+00:00"
+  },
+  {
+    "id": "5a8d2868972c494a9e8e5ff126f430d4",
+    "user_id": "demo-user",
+    "date": "2026-01-26",
+    "amount": -71.99,
+    "category": "groceries",
+    "counterparty": "SuperValu",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.215737+00:00"
+  },
+  {
+    "id": "ae25c7e1cfe742088a652e8472c95fc5",
+    "user_id": "demo-user",
+    "date": "2026-01-27",
+    "amount": -10.35,
+    "category": "dining",
+    "counterparty": "Sushi Bar",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.216410+00:00"
+  },
+  {
+    "id": "0086b072fd624b98b3934a900943fb7f",
+    "user_id": "demo-user",
+    "date": "2026-02-01",
+    "amount": -1100.0,
+    "category": "housing",
+    "counterparty": "Rent",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.217163+00:00"
+  },
+  {
+    "id": "8077907aac404936b2265e05972df655",
+    "user_id": "demo-user",
+    "date": "2026-02-02",
+    "amount": -130.0,
+    "category": "debt",
+    "counterparty": "Amex Gold payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.217874+00:00"
+  },
+  {
+    "id": "86f642b4f19b4238abe2eb5fbbff15f0",
+    "user_id": "demo-user",
+    "date": "2026-02-03",
+    "amount": -95.0,
+    "category": "utilities",
+    "counterparty": "Electric & Gas",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.218504+00:00"
+  },
+  {
+    "id": "d84f3e3fc4fa455eb1138602c5c21a7e",
+    "user_id": "demo-user",
+    "date": "2026-02-04",
+    "amount": -55.84,
+    "category": "transport",
+    "counterparty": "Fuel Station",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.219553+00:00"
+  },
+  {
+    "id": "81556cc7c21843688c5e79efa761be92",
+    "user_id": "demo-user",
+    "date": "2026-02-05",
+    "amount": -13.99,
+    "category": "subscription",
+    "counterparty": "Netflix",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.220169+00:00"
+  },
+  {
+    "id": "4cf1f20f124840388750b73067c60f4f",
+    "user_id": "demo-user",
+    "date": "2026-02-05",
+    "amount": -39.0,
+    "category": "subscription",
+    "counterparty": "Gym",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.220801+00:00"
+  },
+  {
+    "id": "f7fec4fb8e0a4dabbb6b776b6d29d226",
+    "user_id": "demo-user",
+    "date": "2026-02-06",
+    "amount": -17.21,
+    "category": "dining",
+    "counterparty": "Local Cafe",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.221369+00:00"
+  },
+  {
+    "id": "7c288df098d14a03beafa03496d46b00",
+    "user_id": "demo-user",
+    "date": "2026-02-06",
+    "amount": -48.39,
+    "category": "transport",
+    "counterparty": "Taxi",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.222031+00:00"
+  },
+  {
+    "id": "7337dd95530e466baf42cf0900668fa4",
+    "user_id": "demo-user",
+    "date": "2026-02-07",
+    "amount": -10.99,
+    "category": "subscription",
+    "counterparty": "Spotify",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.222666+00:00"
+  },
+  {
+    "id": "7eb0ed6dc42e4299a96bd495c07387f4",
+    "user_id": "demo-user",
+    "date": "2026-02-08",
+    "amount": -45.0,
+    "category": "subscription",
+    "counterparty": "Broadband",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.223219+00:00"
+  },
+  {
+    "id": "8235dc6513e7478487da4d19269bcac0",
+    "user_id": "demo-user",
+    "date": "2026-02-08",
+    "amount": -150.0,
+    "category": "debt",
+    "counterparty": "Personal Loan payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.223785+00:00"
+  },
+  {
+    "id": "6282c500787340519bb6288ec59a5f1d",
+    "user_id": "demo-user",
+    "date": "2026-02-09",
+    "amount": -63.87,
+    "category": "groceries",
+    "counterparty": "Tesco",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.224298+00:00"
+  },
+  {
+    "id": "ec812004c47045d1b3948eeeae6c9ce5",
+    "user_id": "demo-user",
+    "date": "2026-02-09",
+    "amount": -73.06,
+    "category": "groceries",
+    "counterparty": "Aldi",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.226028+00:00"
+  },
+  {
+    "id": "c63c20e6864646e595d9f4d30dd1c082",
+    "user_id": "demo-user",
+    "date": "2026-02-10",
+    "amount": -25.0,
+    "category": "subscription",
+    "counterparty": "Mobile",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.226609+00:00"
+  },
+  {
+    "id": "d255757011124dc2958c6c8408dcf24d",
+    "user_id": "demo-user",
+    "date": "2026-02-13",
+    "amount": -41.8,
+    "category": "groceries",
+    "counterparty": "Aldi",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.227126+00:00"
+  },
+  {
+    "id": "c652b5f02078451cad2c5191bd03ec6b",
+    "user_id": "demo-user",
+    "date": "2026-02-13",
+    "amount": -15.8,
+    "category": "dining",
+    "counterparty": "Local Cafe",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.227655+00:00"
+  },
+  {
+    "id": "46b3394b452945c681fe381fe9f94090",
+    "user_id": "demo-user",
+    "date": "2026-02-14",
+    "amount": -60.0,
+    "category": "debt",
+    "counterparty": "Visa Classic payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.228172+00:00"
+  },
+  {
+    "id": "21e8b939a9c74f409d423abb7d3d907e",
+    "user_id": "demo-user",
+    "date": "2026-02-14",
+    "amount": -36.09,
+    "category": "groceries",
+    "counterparty": "Dunnes",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.228621+00:00"
+  },
+  {
+    "id": "865c6afcccf348568298290c6ad3b289",
+    "user_id": "demo-user",
+    "date": "2026-02-14",
+    "amount": -35.94,
+    "category": "groceries",
+    "counterparty": "Lidl",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.231176+00:00"
+  },
+  {
+    "id": "e4493f1a95e849da8be373639af3cfe5",
+    "user_id": "demo-user",
+    "date": "2026-02-14",
+    "amount": -36.43,
+    "category": "dining",
+    "counterparty": "Sushi Bar",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.231814+00:00"
+  },
+  {
+    "id": "769df68e453646a68c1d338aef41499e",
+    "user_id": "demo-user",
+    "date": "2026-02-20",
+    "amount": -245.0,
+    "category": "debt",
+    "counterparty": "Car Loan payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.233443+00:00"
+  },
+  {
+    "id": "44ee009c1d50415ab20d4831dc91835f",
+    "user_id": "demo-user",
+    "date": "2026-02-21",
+    "amount": -60.54,
+    "category": "groceries",
+    "counterparty": "Dunnes",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.234150+00:00"
+  },
+  {
+    "id": "4df567a281914656883165487bf408f3",
+    "user_id": "demo-user",
+    "date": "2026-02-21",
+    "amount": -15.68,
+    "category": "transport",
+    "counterparty": "Taxi",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.235353+00:00"
+  },
+  {
+    "id": "f79cbb3a02534379bb8f5999749c6c1f",
+    "user_id": "demo-user",
+    "date": "2026-02-21",
+    "amount": -69.78,
+    "category": "transport",
+    "counterparty": "Rail Ticket",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.236361+00:00"
+  },
+  {
+    "id": "a673eb854b5c48a99f1c779c6d770e6e",
+    "user_id": "demo-user",
+    "date": "2026-02-22",
+    "amount": -73.89,
+    "category": "groceries",
+    "counterparty": "Lidl",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.237032+00:00"
+  },
+  {
+    "id": "304012c782484113ae878012debb1e89",
+    "user_id": "demo-user",
+    "date": "2026-02-24",
+    "amount": -80.76,
+    "category": "groceries",
+    "counterparty": "Tesco",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.237755+00:00"
+  },
+  {
+    "id": "6c6b26addfe54c92ae3edd20d863e3ad",
+    "user_id": "demo-user",
+    "date": "2026-02-24",
+    "amount": -18.76,
+    "category": "dining",
+    "counterparty": "Sushi Bar",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.238258+00:00"
+  },
+  {
+    "id": "47ecbbe1ef5f43fca3828ce48561e366",
+    "user_id": "demo-user",
+    "date": "2026-02-25",
+    "amount": 2900.0,
+    "category": "income",
+    "counterparty": "ACME Payroll",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.238737+00:00"
+  },
+  {
+    "id": "6dbadd53ce2249758eff413101d4d8bb",
+    "user_id": "demo-user",
+    "date": "2026-02-25",
+    "amount": -34.4,
+    "category": "groceries",
+    "counterparty": "SuperValu",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.239241+00:00"
+  },
+  {
+    "id": "07d3d5a885ff401d8834be7d3ef790c8",
+    "user_id": "demo-user",
+    "date": "2026-02-25",
+    "amount": -26.4,
+    "category": "dining",
+    "counterparty": "Pizza Place",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.239777+00:00"
+  },
+  {
+    "id": "cd7041ac7cf14680a3e07a952ede41e2",
+    "user_id": "demo-user",
+    "date": "2026-02-25",
+    "amount": -27.12,
+    "category": "dining",
+    "counterparty": "Sushi Bar",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.240224+00:00"
+  },
+  {
+    "id": "0f8d84cd3d31458c99e350b9b4961fd1",
+    "user_id": "demo-user",
+    "date": "2026-03-01",
+    "amount": -1100.0,
+    "category": "housing",
+    "counterparty": "Rent",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.240689+00:00"
+  },
+  {
+    "id": "f1ab61a984b74e26b2dbfeb6ffd75b59",
+    "user_id": "demo-user",
+    "date": "2026-03-02",
+    "amount": -130.0,
+    "category": "debt",
+    "counterparty": "Amex Gold payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.241664+00:00"
+  },
+  {
+    "id": "51dd3d03d158408f8f576f7618505b93",
+    "user_id": "demo-user",
+    "date": "2026-03-02",
+    "amount": -58.13,
+    "category": "groceries",
+    "counterparty": "SuperValu",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.242167+00:00"
+  },
+  {
+    "id": "2f4a91d9b3404eb79cc5a859ec7f02da",
+    "user_id": "demo-user",
+    "date": "2026-03-02",
+    "amount": -25.5,
+    "category": "groceries",
+    "counterparty": "Aldi",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.242665+00:00"
+  },
+  {
+    "id": "dc3a94b1152d4c20bd7eb52a7bc194c5",
+    "user_id": "demo-user",
+    "date": "2026-03-03",
+    "amount": -95.0,
+    "category": "utilities",
+    "counterparty": "Electric & Gas",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.243101+00:00"
+  },
+  {
+    "id": "edbbe7307b2947d9b39e445ac91729c2",
+    "user_id": "demo-user",
+    "date": "2026-03-04",
+    "amount": -10.99,
+    "category": "subscription",
+    "counterparty": "Spotify",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.243528+00:00"
+  },
+  {
+    "id": "8c8fea6af91c49609e1f4c32292e3f77",
+    "user_id": "demo-user",
+    "date": "2026-03-05",
+    "amount": -39.0,
+    "category": "subscription",
+    "counterparty": "Gym",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.243953+00:00"
+  },
+  {
+    "id": "1bc31a97fbfa4827afe75f220711fd84",
+    "user_id": "demo-user",
+    "date": "2026-03-05",
+    "amount": -76.32,
+    "category": "groceries",
+    "counterparty": "Aldi",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.244475+00:00"
+  },
+  {
+    "id": "32abbce58ff64061815b47e77fca8f77",
+    "user_id": "demo-user",
+    "date": "2026-03-06",
+    "amount": -43.05,
+    "category": "groceries",
+    "counterparty": "Lidl",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.244987+00:00"
+  },
+  {
+    "id": "eefec78e4d6b458aa2fcca713a7fe6b3",
+    "user_id": "demo-user",
+    "date": "2026-03-06",
+    "amount": -29.45,
+    "category": "dining",
+    "counterparty": "Local Cafe",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.245529+00:00"
+  },
+  {
+    "id": "d63711c923154aa587a5c4cf07b3cd68",
+    "user_id": "demo-user",
+    "date": "2026-03-07",
+    "amount": -48.4,
+    "category": "groceries",
+    "counterparty": "Aldi",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.246056+00:00"
+  },
+  {
+    "id": "d3d52ad8b3b44ca5995f3048eac78d3f",
+    "user_id": "demo-user",
+    "date": "2026-03-08",
+    "amount": -45.0,
+    "category": "subscription",
+    "counterparty": "Broadband",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.246579+00:00"
+  },
+  {
+    "id": "e8234e86f5a74e089e2bd5e83a30ce74",
+    "user_id": "demo-user",
+    "date": "2026-03-08",
+    "amount": -150.0,
+    "category": "debt",
+    "counterparty": "Personal Loan payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.247060+00:00"
+  },
+  {
+    "id": "87292e124a234a48bf69a1ea1275a5c3",
+    "user_id": "demo-user",
+    "date": "2026-03-08",
+    "amount": -65.88,
+    "category": "transport",
+    "counterparty": "Bus Top-up",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.247535+00:00"
+  },
+  {
+    "id": "2d81ba9528124062bd7a5df30a72308c",
+    "user_id": "demo-user",
+    "date": "2026-03-12",
+    "amount": -13.99,
+    "category": "subscription",
+    "counterparty": "Netflix",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.248031+00:00"
+  },
+  {
+    "id": "53eec3de2607426fb9eb274b7fdb492f",
+    "user_id": "demo-user",
+    "date": "2026-03-12",
+    "amount": -25.0,
+    "category": "subscription",
+    "counterparty": "Mobile",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.248470+00:00"
+  },
+  {
+    "id": "8d18b461a6bd477c87cc3d149afdeb56",
+    "user_id": "demo-user",
+    "date": "2026-03-12",
+    "amount": -25.47,
+    "category": "groceries",
+    "counterparty": "SuperValu",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.249075+00:00"
+  },
+  {
+    "id": "df06599c14e547cdbc5482d8f2bb74b7",
+    "user_id": "demo-user",
+    "date": "2026-03-14",
+    "amount": -60.0,
+    "category": "debt",
+    "counterparty": "Visa Classic payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.249537+00:00"
+  },
+  {
+    "id": "2f0b5464266e447294e9d38a8bcdd5b3",
+    "user_id": "demo-user",
+    "date": "2026-03-16",
+    "amount": -64.18,
+    "category": "transport",
+    "counterparty": "Taxi",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.249972+00:00"
+  },
+  {
+    "id": "1b16affcebb04ac197602cd840939e13",
+    "user_id": "demo-user",
+    "date": "2026-03-18",
+    "amount": -69.05,
+    "category": "groceries",
+    "counterparty": "Dunnes",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.250443+00:00"
+  },
+  {
+    "id": "8d233fafa925471088ab6fd660c7fdb7",
+    "user_id": "demo-user",
+    "date": "2026-03-18",
+    "amount": -62.6,
+    "category": "transport",
+    "counterparty": "Taxi",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.250868+00:00"
+  },
+  {
+    "id": "f0439694d6ef43429efacddde87339ae",
+    "user_id": "demo-user",
+    "date": "2026-03-19",
+    "amount": -81.88,
+    "category": "groceries",
+    "counterparty": "Dunnes",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.251253+00:00"
+  },
+  {
+    "id": "3b2244918cf041f58e8689ad058be63c",
+    "user_id": "demo-user",
+    "date": "2026-03-20",
+    "amount": -245.0,
+    "category": "debt",
+    "counterparty": "Car Loan payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.251657+00:00"
+  },
+  {
+    "id": "b20c56d2a6a64a10998fdc1e58f4fb2d",
+    "user_id": "demo-user",
+    "date": "2026-03-20",
+    "amount": -38.36,
+    "category": "dining",
+    "counterparty": "Deliveroo",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.252081+00:00"
+  },
+  {
+    "id": "8c3bb5184f9b4710a723f7db6d05e1df",
+    "user_id": "demo-user",
+    "date": "2026-03-22",
+    "amount": -52.01,
+    "category": "groceries",
+    "counterparty": "Lidl",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.252533+00:00"
+  },
+  {
+    "id": "8689c79ebe4d49378341260059a9f8ed",
+    "user_id": "demo-user",
+    "date": "2026-03-24",
+    "amount": -30.08,
+    "category": "transport",
+    "counterparty": "Rail Ticket",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.252950+00:00"
+  },
+  {
+    "id": "7b523ae5bb6347a9858b011e6a40bdb1",
+    "user_id": "demo-user",
+    "date": "2026-03-25",
+    "amount": 2900.0,
+    "category": "income",
+    "counterparty": "ACME Payroll",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.253381+00:00"
+  },
+  {
+    "id": "bc2dc69e331a4438b507fe247da24f8d",
+    "user_id": "demo-user",
+    "date": "2026-03-25",
+    "amount": -24.07,
+    "category": "dining",
+    "counterparty": "Deliveroo",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.253845+00:00"
+  },
+  {
+    "id": "58731c815baa4069bffdaf412b76810b",
+    "user_id": "demo-user",
+    "date": "2026-03-26",
+    "amount": -25.51,
+    "category": "dining",
+    "counterparty": "Local Cafe",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.254279+00:00"
+  },
+  {
+    "id": "90912802ad7844b98bb81ab0fb50ea39",
+    "user_id": "demo-user",
+    "date": "2026-03-27",
+    "amount": -38.6,
+    "category": "groceries",
+    "counterparty": "Tesco",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.254963+00:00"
+  },
+  {
+    "id": "1181456a8c3a4b43927d4bbf576817cb",
+    "user_id": "demo-user",
+    "date": "2026-04-01",
+    "amount": -1100.0,
+    "category": "housing",
+    "counterparty": "Rent",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.255433+00:00"
+  },
+  {
+    "id": "cf093348c9c446e983641855ba364efb",
+    "user_id": "demo-user",
+    "date": "2026-04-02",
+    "amount": -130.0,
+    "category": "debt",
+    "counterparty": "Amex Gold payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.255906+00:00"
+  },
+  {
+    "id": "eb43f5eba4bf41a4879ef1c569d309b6",
+    "user_id": "demo-user",
+    "date": "2026-04-03",
+    "amount": -95.0,
+    "category": "utilities",
+    "counterparty": "Electric & Gas",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.256316+00:00"
+  },
+  {
+    "id": "fa70f29abd3e44e8ae61723deab41c3a",
+    "user_id": "demo-user",
+    "date": "2026-04-03",
+    "amount": -21.48,
+    "category": "dining",
+    "counterparty": "Pizza Place",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.257906+00:00"
+  },
+  {
+    "id": "33cb55795e0b4d2ca3455f18babc4872",
+    "user_id": "demo-user",
+    "date": "2026-04-05",
+    "amount": -13.99,
+    "category": "subscription",
+    "counterparty": "Netflix",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.259323+00:00"
+  },
+  {
+    "id": "a551573969a24f7a89acf309b50a80d5",
+    "user_id": "demo-user",
+    "date": "2026-04-05",
+    "amount": -25.0,
+    "category": "subscription",
+    "counterparty": "Mobile",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.259814+00:00"
+  },
+  {
+    "id": "5299905bf6f34065b65d0ff3bd147e76",
+    "user_id": "demo-user",
+    "date": "2026-04-06",
+    "amount": -36.47,
+    "category": "transport",
+    "counterparty": "Rail Ticket",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.260268+00:00"
+  },
+  {
+    "id": "07e8869ef442469cb6d141970713cbd2",
+    "user_id": "demo-user",
+    "date": "2026-04-07",
+    "amount": -10.99,
+    "category": "subscription",
+    "counterparty": "Spotify",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.260799+00:00"
+  },
+  {
+    "id": "5568ce4756284627b609f2c47724be3f",
+    "user_id": "demo-user",
+    "date": "2026-04-07",
+    "amount": -39.0,
+    "category": "subscription",
+    "counterparty": "Gym",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.261214+00:00"
+  },
+  {
+    "id": "342be30c60c5429e9c3edcc6a1a57d52",
+    "user_id": "demo-user",
+    "date": "2026-04-08",
+    "amount": -150.0,
+    "category": "debt",
+    "counterparty": "Personal Loan payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.261642+00:00"
+  },
+  {
+    "id": "d3ecb10770f84606aa4f6bb77f572c59",
+    "user_id": "demo-user",
+    "date": "2026-04-09",
+    "amount": -45.0,
+    "category": "subscription",
+    "counterparty": "Broadband",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.262039+00:00"
+  },
+  {
+    "id": "8d1d0c9f1b904630b0e2f4e191a91223",
+    "user_id": "demo-user",
+    "date": "2026-04-09",
+    "amount": -18.48,
+    "category": "groceries",
+    "counterparty": "Tesco",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.262429+00:00"
+  },
+  {
+    "id": "67854484aac345d2b72f16822bd3b75e",
+    "user_id": "demo-user",
+    "date": "2026-04-09",
+    "amount": -22.52,
+    "category": "groceries",
+    "counterparty": "Tesco",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.262885+00:00"
+  },
+  {
+    "id": "3097b3ef0af14dc7bc13464daecddef3",
+    "user_id": "demo-user",
+    "date": "2026-04-09",
+    "amount": -23.11,
+    "category": "transport",
+    "counterparty": "Taxi",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.263280+00:00"
+  },
+  {
+    "id": "3ed11647446046f9b0c534aca9c481b4",
+    "user_id": "demo-user",
+    "date": "2026-04-10",
+    "amount": -62.82,
+    "category": "groceries",
+    "counterparty": "Lidl",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.263703+00:00"
+  },
+  {
+    "id": "aa7f3efe86f54bbaa0bc5b613d7bdfb6",
+    "user_id": "demo-user",
+    "date": "2026-04-12",
+    "amount": -22.75,
+    "category": "groceries",
+    "counterparty": "Lidl",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.264097+00:00"
+  },
+  {
+    "id": "7bba0dc0f0af4d6e81e65d3b13bb7d35",
+    "user_id": "demo-user",
+    "date": "2026-04-14",
+    "amount": -60.0,
+    "category": "debt",
+    "counterparty": "Visa Classic payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.264552+00:00"
+  },
+  {
+    "id": "ff034e2d8f49437aa3e54403092fe88a",
+    "user_id": "demo-user",
+    "date": "2026-04-15",
+    "amount": -23.48,
+    "category": "dining",
+    "counterparty": "Deliveroo",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.264959+00:00"
+  },
+  {
+    "id": "e0a8717992c543629b0dde4d6bebd138",
+    "user_id": "demo-user",
+    "date": "2026-04-16",
+    "amount": -26.49,
+    "category": "transport",
+    "counterparty": "Fuel Station",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.265349+00:00"
+  },
+  {
+    "id": "d120f2379d0d4656850a9cb6c70e8954",
+    "user_id": "demo-user",
+    "date": "2026-04-19",
+    "amount": -26.86,
+    "category": "groceries",
+    "counterparty": "Dunnes",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.265788+00:00"
+  },
+  {
+    "id": "23624df7830b4124ab8ec6fbacdfdd50",
+    "user_id": "demo-user",
+    "date": "2026-04-20",
+    "amount": -245.0,
+    "category": "debt",
+    "counterparty": "Car Loan payment",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.266196+00:00"
+  },
+  {
+    "id": "c68f9c2d19d849fba8e09a79a378b39a",
+    "user_id": "demo-user",
+    "date": "2026-04-20",
+    "amount": -55.11,
+    "category": "groceries",
+    "counterparty": "Dunnes",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.266657+00:00"
+  },
+  {
+    "id": "3369c8f8c8e947e0a23a363fe9bbb740",
+    "user_id": "demo-user",
+    "date": "2026-04-20",
+    "amount": -49.67,
+    "category": "groceries",
+    "counterparty": "SuperValu",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.267072+00:00"
+  },
+  {
+    "id": "c5965358162b45199eeba62d64d09da5",
+    "user_id": "demo-user",
+    "date": "2026-04-23",
+    "amount": -22.36,
+    "category": "dining",
+    "counterparty": "Sushi Bar",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.267469+00:00"
+  },
+  {
+    "id": "1957357c22d44a1282d1efe436698b07",
+    "user_id": "demo-user",
+    "date": "2026-04-23",
+    "amount": -29.26,
+    "category": "dining",
+    "counterparty": "Deliveroo",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.267913+00:00"
+  },
+  {
+    "id": "c0d8b55720d742b99eba0d7eae0eba54",
+    "user_id": "demo-user",
+    "date": "2026-04-25",
+    "amount": 2900.0,
+    "category": "income",
+    "counterparty": "ACME Payroll",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.268322+00:00"
+  },
+  {
+    "id": "eebb6927258c4b4dbfd37e0c179fbfb6",
+    "user_id": "demo-user",
+    "date": "2026-04-27",
+    "amount": -45.27,
+    "category": "groceries",
+    "counterparty": "Tesco",
+    "source": "19639545c51c4dc3a12546c808459ded",
+    "created_at": "2026-05-29T08:01:23.268810+00:00"
+  }
+]
