@@ -46,13 +46,19 @@ DEFAULT_CURRENCY = "EUR"
 
 API_PREFIX = "/api/v1"
 
-# Frontend origins allowed by CORS (React dev server).
+# Frontend origins allowed by CORS. Local React dev servers plus the deployed
+# Vercel frontend. Origins must have NO trailing slash (the browser's Origin
+# header never includes one). Add extra origins via the CORS_ORIGINS env var
+# (comma-separated) without a code change.
 CORS_ORIGINS = [
     "http://localhost:5173",
     "http://localhost:3000",
     "http://127.0.0.1:5173",
     "http://127.0.0.1:3000",
+    "https://financial-rag-frontend-seven.vercel.app",
 ]
+_extra_origins = os.environ.get("CORS_ORIGINS", "")
+CORS_ORIGINS += [o.strip() for o in _extra_origins.split(",") if o.strip()]
 
 # Cap on rows returned in a single preview page.
 MAX_PREVIEW_LIMIT = 500
